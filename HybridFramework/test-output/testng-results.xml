@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-03T07:20:07 IST" name="Default suite" finished-at="2023-05-03T07:20:19 IST" duration-ms="12394">
+    <groups>
+    </groups>
+    <test started-at="2023-05-03T07:20:07 IST" name="Default test" finished-at="2023-05-03T07:20:19 IST" duration-ms="12394">
+      <class name="testScript.FBLoginScript">
+        <test-method is-config="true" signature="OpenApp()[pri:0, instance:testScript.FBLoginScript@693fe6c9]" started-at="2023-05-03T07:20:07 IST" name="OpenApp" finished-at="2023-05-03T07:20:12 IST" duration-ms="4920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApp -->
+        <test-method signature="LoginMethod()[pri:0, instance:testScript.FBLoginScript@693fe6c9]" started-at="2023-05-03T07:20:12 IST" name="LoginMethod" finished-at="2023-05-03T07:20:18 IST" duration-ms="6367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginMethod -->
+        <test-method is-config="true" signature="CloseApp()[pri:0, instance:testScript.FBLoginScript@693fe6c9]" started-at="2023-05-03T07:20:18 IST" name="CloseApp" finished-at="2023-05-03T07:20:19 IST" duration-ms="1058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- testScript.FBLoginScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
